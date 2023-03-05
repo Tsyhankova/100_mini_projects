@@ -12,3 +12,9 @@ Caesar cipher one of the simplest and most widely known encryption techniques.
 
 A very small project, a structure in the realization of a Silent auction.
 ![image](https://user-images.githubusercontent.com/52218796/222720140-fde4508f-ad5d-4978-823e-a6265c2dc02b.png)
+
+# fourth day:
+
+A simplest calculator in a 30 min
+
+![image](https://user-images.githubusercontent.com/52218796/222986503-fb189a3f-2dad-4421-b5a8-db128292407b.png)
