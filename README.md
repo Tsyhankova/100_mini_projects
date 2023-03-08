@@ -34,3 +34,8 @@ cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 6. The cards in the list have equal probability of being drawn.
 7. Cards are not removed from the deck as they are drawn.
 8. The computer is the dealer.
+
+# sixth day:
+
+![image](https://user-images.githubusercontent.com/52218796/223679091-db572cf7-7d94-4a88-99f4-59286e2ba1eb.png)
+
