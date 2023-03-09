@@ -39,3 +39,10 @@ cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 
 ![image](https://user-images.githubusercontent.com/52218796/223679091-db572cf7-7d94-4a88-99f4-59286e2ba1eb.png)
 
+
+# seventh day:
+
+The game uses a .json file containing more than 700 cities with up-to-date population data for 2023. The task is to guess which city has a larger population. Scoring is underway. Nothing complicated, just interesting information about cities.
+
+![image](https://user-images.githubusercontent.com/52218796/224029963-07538d80-6b26-4616-bb84-565d1fe24fba.png)
+
