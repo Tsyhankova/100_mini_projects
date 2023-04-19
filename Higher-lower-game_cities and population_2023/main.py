@@ -6,9 +6,7 @@ f = open("data.json")
 data = json.load(f)
 city_dict = {}
 for i in data:
-    city_dict[i['pop2023']] = [i['country'], i['city']]
-print(len(city_dict))
-    
+    city_dict[i['pop2023']] = [i['country'], i['city']]  
 f.close()
 
 def comparison(a, b, score):
