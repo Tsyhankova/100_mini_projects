@@ -34,7 +34,7 @@ while game:
     continuation = (input("Do you want to continue the game? 'Y' or 'N'\n")).lower()
     if continuation == 'n':
         game = False
-        print(f"Your final score is {score}.\nBye!")
+        print(f"Your final score is {score}.\nBye-bye!")
     
     
 
